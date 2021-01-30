@@ -1,5 +1,7 @@
-<h2 align="center" margin-bottom="300px">Hi there 👋</h2>
-<p> 안녕하세요 프론트엔드 개발자 김영섭입니다. </
+<h2 align="center" margin-bottom="300px">Hi there 👋
+<p> 안녕하세요 프론트엔드 개발자 김영섭입니다. </p>
+</h2>
+
 
 <div style = display="flex">
 <p>
