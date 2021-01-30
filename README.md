@@ -13,7 +13,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 	
-<a href="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://hanamdeveloper.github.io/Second-Publish/">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 	
