@@ -37,7 +37,7 @@
 ### Technology of interest
 <div style = display="flex">
 <img src="https://user-images.githubusercontent.com/63652102/106357171-c2fb2980-6347-11eb-9fa4-7dcbd8ed84e0.png" width="55px"/>
-<img src="https://user-images.githubusercontent.com/63652102/106357239-43218f00-6348-11eb-9a0a-527ca680c055.png" width="55px" height="67px"/>
+<img src="https://user-images.githubusercontent.com/63652102/106357239-43218f00-6348-11eb-9a0a-527ca680c055.png" width="55px" height="57px"/>
 <img src="https://user-images.githubusercontent.com/63652102/106357166-be367580-6347-11eb-8027-9a27a8f0aed0.png" width="55px"/>
 <img src="https://user-images.githubusercontent.com/58289675/106354722-3ba5ba00-6337-11eb-88fc-ab55473d7960.png" width="55px"/>
 </ div>
