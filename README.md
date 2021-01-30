@@ -23,7 +23,7 @@
 
 
 ### My stacks
-<div style = display="flex">    
+<div style = display="flex">  
 <image src="https://user-images.githubusercontent.com/63652102/106355350-a3113900-633a-11eb-898a-eca3e7ded1bf.png" width="55" />
 <image src="https://user-images.githubusercontent.com/63652102/106355359-a9071a00-633a-11eb-9544-52af937bc756.jpg" width="50" />
 <image src="https://user-images.githubusercontent.com/63652102/106355362-ac020a80-633a-11eb-9a36-e2fb63cd7a58.jpg" width="50" />
@@ -33,12 +33,14 @@
 <image src="https://user-images.githubusercontent.com/63652102/106355848-fe90f600-633d-11eb-9323-4132c8fec66a.png" width="55" />
 </div>
 
-### Expected stacks
+
+### Technology of interest
+<div style = display="flex">
 <img src="https://user-images.githubusercontent.com/63652102/106357171-c2fb2980-6347-11eb-9fa4-7dcbd8ed84e0.png" width="55px"/>
 <img src="https://user-images.githubusercontent.com/63652102/106357239-43218f00-6348-11eb-9a0a-527ca680c055.png" width="55px"/>
 <img src="https://user-images.githubusercontent.com/63652102/106357166-be367580-6347-11eb-8027-9a27a8f0aed0.png" width="55px"/>
 <img src="https://user-images.githubusercontent.com/58289675/106354722-3ba5ba00-6337-11eb-88fc-ab55473d7960.png" width="55px"/>
-
+</ div>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanamDeveloper)](https://github.com/hanamDeveloper/github-readme-stats)
 
