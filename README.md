@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 <image src="https://user-images.githubusercontent.com/63652102/106354951-87a52e80-6338-11eb-8a07-7f9b2d45ea08.png" width="50" />
 
-<image src="https://user-images.githubusercontent.com/63652102/106354939-72c89b00-6338-11eb-9ef7-22601bad1499.jpg
-" width="50" />
+<image src="https://user-images.githubusercontent.com/63652102/106354939-72c89b00-6338-11eb-9ef7-22601bad1499.jpg" width="50" />
 
 <image src="https://user-images.githubusercontent.com/63652102/106354536-def5cf80-6335-11eb-98ba-5fa2ce688807.png" width="50" />
 
