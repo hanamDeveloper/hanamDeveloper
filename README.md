@@ -42,13 +42,7 @@
 <img src="https://user-images.githubusercontent.com/58289675/106354722-3ba5ba00-6337-11eb-88fc-ab55473d7960.png" width="55px"/>
 </ div>
 
-<div style = display="flex">
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanamDeveloper)](https://github.com/hanamDeveloper/github-readme-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanamDeveloper&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
  
 
 
