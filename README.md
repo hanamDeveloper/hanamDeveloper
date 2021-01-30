@@ -1,23 +1,21 @@
 ### Hi there 👋
 
 
-<div style= display="flex" justify-content="right"> 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanamDeveloper&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 
 <div style = display="flex">
-	
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005009375516)](https://www.facebook.com/profile.php?id=100005009375516)
 	
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zmf1118@gmail.com)](mailto:zmf1118@gmail.com)
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hanamdeveloper.github.io/Second-Publish/)](https://hanamdeveloper.github.io/Second-Publish//)
-
  </div>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanamDeveloper)](https://github.com/hanamDeveloper/github-readme-stats)
-:cookie::apple::baby_bottle::chocolate_bar:
+
 ### My Stacks
 <div style = display="flex">    
 <image src="https://user-images.githubusercontent.com/63652102/106355350-a3113900-633a-11eb-898a-eca3e7ded1bf.png" width="55" />
