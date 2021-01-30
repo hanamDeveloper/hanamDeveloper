@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div style = "display="flex">
 <image src="https://user-images.githubusercontent.com/63652102/106354529-d56c6780-6335-11eb-901a-676dca6a6f60.png" width="50" />
 
 <image src="https://user-images.githubusercontent.com/63652102/106354532-d8ffee80-6335-11eb-9a84-b79b6cb568e3.png" width="50" />
@@ -23,6 +24,7 @@ Here are some ideas to get you started:
 <image src="https://user-images.githubusercontent.com/63652102/106354536-def5cf80-6335-11eb-98ba-5fa2ce688807.png" width="50" />
 
 <image src="https://user-images.githubusercontent.com/63652102/106354538-e0bf9300-6335-11eb-96bb-4aad97948c21.png" width="50" />
+</div>
 
 
 [! [Anurag의 GitHub 통계] (https://github-readme-stats.vercel.app/api ? username = anuraghazra )] (https://github.com/anuraghazra/github-readme-stats)
