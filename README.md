@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 <div style = "display="flex">
 			    
-<image src="https://user-images.githubusercontent.com/63652102/106355350-a3113900-633a-11eb-898a-eca3e7ded1bf.png" width="50" />
+<image src="https://user-images.githubusercontent.com/63652102/106355350-a3113900-633a-11eb-898a-eca3e7ded1bf.png" width="55" />
 
 <image src="https://user-images.githubusercontent.com/63652102/106355359-a9071a00-633a-11eb-9544-52af937bc756.jpg" width="50" />
 
