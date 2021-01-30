@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<div style== display="flex" justify-content="right"> 
+<div style= display="flex" justify-content="right"> 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanamDeveloper&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
