@@ -2,6 +2,7 @@
 <p> 안녕하세요 프론트엔드 개발자 김영섭입니다. </p>
 </h2>
 
+--------
 
 <div style = display="flex">
 <p>
@@ -18,6 +19,8 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+
+--------
 
 ### My Stacks
 <div style = display="flex">    
