@@ -1,8 +1,7 @@
 <h2 align="center" margin-bottom="300px">Hi there 👋
 <p> 안녕하세요 프론트엔드 개발자 김영섭입니다. </p>
-</h2>
-
-<div style = display="flex">
+ 
+ <div style = display="flex">
 <p>
 <a href="https://www.facebook.com/profile.php?id=100005009375516" rel="nofollow">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -17,6 +16,9 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+</h2>
+
+
 
 
 
