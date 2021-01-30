@@ -16,6 +16,10 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+
+<a href="https://www.notion.so/HOME-bf3276b845a545bc9731e6ca3c25ab08">
+<img src="https://user-images.githubusercontent.com/58289675/106356873-0d7ba680-6346-11eb-92bd-ee6edadbc828.png" width="90" height="29">
+ </ a>
 </h2>
 
 
