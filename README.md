@@ -7,11 +7,16 @@
 
 
 <div style = display="flex">
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005009375516)](https://www.facebook.com/profile.php?id=100005009375516)
+<p>
+<a href="https://www.facebook.com/profile.php?id=100005009375516" rel="nofollow">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 	
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zmf1118@gmail.com)](mailto:zmf1118@gmail.com)
-  
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hanamdeveloper.github.io/Second-Publish/)](https://hanamdeveloper.github.io/Second-Publish//)
+<a href="mailto:sksmsqodn20@gmail.com?subject=Olá%20Stefany">
+<img src="https://camo.githubusercontent.com/2e31b0d0e07e5431ee3f85689b488016d52a4fb97e523ae497023a9746e2e52e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334431343833362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/gmail-%23D14836.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
  </div>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanamDeveloper)](https://github.com/hanamDeveloper/github-readme-stats)]
