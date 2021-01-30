@@ -3,7 +3,6 @@
 </h2>
 
 --------
-
 <div style = display="flex">
 <p>
 <a href="https://www.facebook.com/profile.php?id=100005009375516" rel="nofollow">
@@ -20,7 +19,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
---------
 
 ### My Stacks
 <div style = display="flex">    
