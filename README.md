@@ -17,7 +17,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
  
  <a href="https://www.notion.so/HOME-bf3276b845a545bc9731e6ca3c25ab08">
-<img src="https://user-images.githubusercontent.com/58289675/106356873-0d7ba680-6346-11eb-92bd-ee6edadbc828.png" width="90" height="29">
+<img src="https://user-images.githubusercontent.com/58289675/106357755-6ef24400-634b-11eb-82d0-703ff7ad83c3.png" width="90" height="29">
  </ a>
 </div>
 
