@@ -41,10 +41,14 @@
 <img src="https://user-images.githubusercontent.com/63652102/106357166-be367580-6347-11eb-8027-9a27a8f0aed0.png" width="55px"/>
 <img src="https://user-images.githubusercontent.com/58289675/106354722-3ba5ba00-6337-11eb-88fc-ab55473d7960.png" width="55px"/>
 </ div>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanamDeveloper)](https://github.com/hanamDeveloper/github-readme-stats)
+
+<div style = display="flex">
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanamDeveloper)](https://github.com/hanamDeveloper/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanamDeveloper&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ </ div>
+ 
+
 
 
 
