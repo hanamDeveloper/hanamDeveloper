@@ -30,14 +30,14 @@
 <image src="https://user-images.githubusercontent.com/63652102/106355364-ae646480-633a-11eb-9d5d-48aaf74e4c5b.png" width="55" />
 <image src="https://user-images.githubusercontent.com/63652102/106355367-b2908200-633a-11eb-8bd0-8a8ad037f789.png" width="55" />
 <image src="https://user-images.githubusercontent.com/63652102/106355824-cd182a80-633d-11eb-97b4-45174ea0b8ce.png" width="55" />
-<image src="https://user-images.githubusercontent.com/63652102/106355848-fe90f600-633d-11eb-9323-4132c8fec66a.png"  width="55" />
+<image src="https://user-images.githubusercontent.com/63652102/106355848-fe90f600-633d-11eb-9323-4132c8fec66a.png" width="55" />
 </div>
 
 ### Expected stacks
 <img src="https://user-images.githubusercontent.com/63652102/106357171-c2fb2980-6347-11eb-9fa4-7dcbd8ed84e0.png" width="50px"/>
 <img src="https://user-images.githubusercontent.com/63652102/106357239-43218f00-6348-11eb-9a0a-527ca680c055.png" width="50px"/>
-<img src="https://user-images.githubusercontent.com/63652102/106357166-be367580-6347-11eb-8027-9a27a8f0aed0.png" width="70px" height="70px"/>
-<image src="https://user-images.githubusercontent.com/58289675/106354722-3ba5ba00-6337-11eb-88fc-ab55473d7960.png" width="50"/>
+<img src="https://user-images.githubusercontent.com/63652102/106357166-be367580-6347-11eb-8027-9a27a8f0aed0.png" width="70px"/>
+<img src="https://user-images.githubusercontent.com/58289675/106354722-3ba5ba00-6337-11eb-88fc-ab55473d7960.png" width="50"/>
 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanamDeveloper)](https://github.com/hanamDeveloper/github-readme-stats)
