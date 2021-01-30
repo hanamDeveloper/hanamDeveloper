@@ -14,7 +14,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hanamdeveloper.github.io/Second-Publish/)](https://hanamdeveloper.github.io/Second-Publish//)
  </div>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanamDeveloper)](https://github.com/hanamDeveloper/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanamDeveloper)](https://github.com/hanamDeveloper/github-readme-stats)]
 
 ### My Stacks
 <div style = display="flex">    
