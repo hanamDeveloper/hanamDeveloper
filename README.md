@@ -14,11 +14,16 @@
 <a href="mailto:zmf1118@gmail.com?subject=Olá%20Stefany">
 <img src="https://camo.githubusercontent.com/2e31b0d0e07e5431ee3f85689b488016d52a4fb97e523ae497023a9746e2e52e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334431343833362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/gmail-%23D14836.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;">
 </a>
+ 
 &nbsp;&nbsp;&nbsp;&nbsp;
  
  <a href="https://www.notion.so/HOME-bf3276b845a545bc9731e6ca3c25ab08">
 <img src="https://user-images.githubusercontent.com/58289675/106357755-6ef24400-634b-11eb-82d0-703ff7ad83c3.png" width="90" height="29">
- </ a>
+ </a>
+ 
+ 
+ 
+
 </div>
 
 
@@ -38,6 +43,7 @@
 <image src="https://user-images.githubusercontent.com/63652102/106355824-cd182a80-633d-11eb-97b4-45174ea0b8ce.png" width="55" />
 <image src="https://user-images.githubusercontent.com/63652102/106355848-fe90f600-633d-11eb-9323-4132c8fec66a.png" width="55" />
  <img src="https://user-images.githubusercontent.com/63652102/106357171-c2fb2980-6347-11eb-9fa4-7dcbd8ed84e0.png" width="55px"/>
+  <img src="https://user-images.githubusercontent.com/63652102/159225733-2a6ec9ca-bb59-4c91-b077-71d191b5b746.png" width="55px"/>
 </div>
 
 
