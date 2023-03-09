@@ -50,9 +50,6 @@
 <br>
 <br>
 
-### Blog
-https://felog.tistory.com/
-
 <br>
 <br>
 
